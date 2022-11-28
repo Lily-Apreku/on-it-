@@ -1,0 +1,26 @@
+table{
+    border: 5px solid whitesmoke;
+    border-collapse: collapse;
+    line-height: 50px;
+    background-image:url("rose-petals-3194062_960_720.jpg");
+    height: 1.0cm;
+    background: rgba(100,50, 30, 0.2S)
+}
+    th{
+        border:2px solid whitesmoke;
+        border-collapse: collapse;
+        margin: 0cm,3cm,0cm,3cm;
+        line-height: 22px;
+        height: 1.5cm;
+    }
+    td{
+        border:2px solid whitesmoke;
+        border-collapse: collapse;
+        margin: auto;
+        align-items: center;
+        padding:5px 8px;
+        border-left: 1px solid #eee;
+        font-size: 18px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    }
+    
